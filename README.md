@@ -11,4 +11,5 @@ DatasSet is present in a csv file
 * Annual Income (k$)
 * Spending Score (1-100)
 
-
+# Algorithms
+* K-means
