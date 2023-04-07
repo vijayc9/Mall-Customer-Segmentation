@@ -12,4 +12,6 @@ DatasSet is present in a csv file
 * Spending Score (1-100)
 
 # Algorithms
-* K-means
+* K-Means
+* K-Means++
+* DBSCAN
